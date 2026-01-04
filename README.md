@@ -4,7 +4,7 @@ Hi there,I'm Zaid Bin Altaf<br>I am currently focussing on upskilling myself in 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaid-bin-altaf-547230265)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logoColor=white)](https://www.kaggle.com/zaidbinaltaf)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/zaidbinaltaf)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zk9128782@gmail.com) 
 
 # 💻 Tech Stack:
